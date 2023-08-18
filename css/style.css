@@ -76,6 +76,12 @@ height: 800px;
     text-align: center;
 }
 
+.footer a
+{
+    display: inline-block;
+    margin: 15px;
+}
+
 .div-exemplo
 {
     width: 300px;
