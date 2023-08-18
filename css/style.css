@@ -1,0 +1,93 @@
+@import url("");
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.imagem-fundo
+{
+background-image: url(".img/img_7347");
+height: 800px;
+}
+
+.titulo
+{
+    color: black;
+    font-family: sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.subTitulo
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.subTitulo-Descricao
+{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.main-descricao
+{
+    padding: 10px;
+    margin: 20px;
+}
+
+.main-figure
+{
+    padding: 20px;
+
+}
+
+.ingredientes
+{
+    margin: 20px;
+    padding: 10px;
+}
+
+.ingredientes-descricao
+{
+    margin: 30px 10px;
+    padding: 10px;
+}
+
+.modo-de-preparo
+{
+    margin: 20px;
+    padding: 10px;
+}
+
+.modo-de-preparo-descricao
+{
+    margin: 30px 10px;
+    padding: 10px;
+}
+
+.footer
+{
+    margin: 40px 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.div-exemplo
+{
+    width: 300px;
+    height: 400px;
+    border: 2px solid red;
+    border-radius: 50pxw;
+    padding: 20px 10px 20px 10px;
+    margin: 20px;
+}
+
+img
+{
+    display: block;
+    margin: auto;
+}
